@@ -13,6 +13,10 @@ This GitHub organization contains a community fork of the MakeCode repositories 
 * [pxt-ev3-translations](https://github.com/pxt-ev3-community/pxt-ev3-translations): Mirror of the translation files from Crowdin
 * [pxt-ev3-community.github.io](https://github.com/pxt-ev3-community/pxt-ev3-community.github.io): Deployment scripts for GitHub pages
 
+The latest release from `pxt-ev3` repository is published here: [https://pxt-ev3-community.github.io/](https://pxt-ev3-community.github.io/).
+
+The latest master branch from `pxt-ev3` is published here: [https://pxt-ev3-community.github.io/pxt-ev3/beta/](https://pxt-ev3-community.github.io/pxt-ev3/beta/)
+
 ### License
 
 This is a community effort, it is not endorsed by LEGO or Microsoft.
