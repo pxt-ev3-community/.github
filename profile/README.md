@@ -1,21 +1,32 @@
-# Community maintained fork of Microsoft MakeCode for LEGO MINDSTORMS EV3
+# BrickCode - A community maintained fork of Microsoft MakeCode for LEGO MINDSTORMS EV3
 
 Microsoft is no longer updating the main [pxt-ev3](https://github.com/microsoft/pxt-ev3/) project.
 The [cloud version](https://makecode.mindstorms.com/) is available but running an old version of MakeCode.
 
 This GitHub organization contains a community fork of the MakeCode repositories and hosts it on GitHub pages.
 
-## [Go to Community MakeCode for LEGO EV3 ▶](https://pxt-ev3-community.github.io/)
+## [Go to BrickCode for EV3 ▶](https://brickcode.org/)
 
 ### Repositories
 
 * [pxt-ev3](https://github.com/pxt-ev3-community/pxt-ev3): The MakeCode system module for EV3 platform
 * [pxt-ev3-translations](https://github.com/pxt-ev3-community/pxt-ev3-translations): Mirror of the translation files from Crowdin
-* [pxt-ev3-community.github.io](https://github.com/pxt-ev3-community/pxt-ev3-community.github.io): Deployment scripts for GitHub pages
 
-The latest release from `pxt-ev3` repository is published here: [https://pxt-ev3-community.github.io/](https://pxt-ev3-community.github.io/).
+The latest release from `pxt-ev3` repository is published here: [https://brickcode.org/](https://brickcode.org/).
 
-The latest master branch from `pxt-ev3` is published here: [https://pxt-ev3-community.github.io/pxt-ev3/beta/](https://pxt-ev3-community.github.io/pxt-ev3/beta/)
+The latest master branch from `pxt-ev3` is published on the beta site: [https://pxt-ev3-community.github.io/pxt-ev3/beta/](https://pxt-ev3-community.github.io/pxt-ev3/beta/)
+
+### Saving and cloud integration
+
+By default the editor saves files to local storage in your browser.
+The files will only be present on your own computer.
+
+Alternatively you can use GitHub integration to save files by creating an API token.
+
+### Privacy
+
+Nothing is uploaded to the pxt-ev3-community sites from the editor.
+The editor may access some Microsoft's makecode.com cloud APIs, for which the privacy statement is available [here](https://go.microsoft.com/fwlink/?LinkId=521839).
 
 ### License
 
