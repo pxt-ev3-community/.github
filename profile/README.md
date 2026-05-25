@@ -7,14 +7,14 @@ This GitHub organization contains a community fork of the MakeCode repositories 
 
 ## [Go to BrickCode for EV3 ▶](https://brickcode.org/)
 
+The latest release from `pxt-ev3` repository is published here: [https://brickcode.org/](https://brickcode.org/).
+
+The latest master branch from `pxt-ev3` is published on the beta site: [https://pxt-ev3-community.github.io/pxt-ev3/beta/](https://pxt-ev3-community.github.io/pxt-ev3/beta/)
+
 ### Repositories
 
 * [pxt-ev3](https://github.com/pxt-ev3-community/pxt-ev3): The MakeCode system module for EV3 platform
 * [pxt-ev3-translations](https://github.com/pxt-ev3-community/pxt-ev3-translations): Mirror of the translation files from Crowdin
-
-The latest release from `pxt-ev3` repository is published here: [https://brickcode.org/](https://brickcode.org/).
-
-The latest master branch from `pxt-ev3` is published on the beta site: [https://pxt-ev3-community.github.io/pxt-ev3/beta/](https://pxt-ev3-community.github.io/pxt-ev3/beta/)
 
 ### Saving and cloud integration
 
