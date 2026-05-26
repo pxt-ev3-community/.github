@@ -9,7 +9,7 @@ This GitHub organization contains a community fork of the MakeCode repositories 
 
 The latest release from `pxt-ev3` repository is published here: [https://brickcode.org/](https://brickcode.org/).
 
-The latest master branch from `pxt-ev3` is published on the beta site: [https://pxt-ev3-community.github.io/pxt-ev3/beta/](https://pxt-ev3-community.github.io/pxt-ev3/beta/)
+The latest master branch from `pxt-ev3` is published on the beta site: [https://beta.brickcode.org](https://beta.brickcode.org/)
 
 ### Repositories
 
@@ -22,6 +22,30 @@ By default the editor saves files to local storage in your browser.
 The files will only be present on your own computer.
 
 Alternatively you can use GitHub integration to save files by creating an API token.
+
+### Translations
+
+Translations are downloaded from [Crowdin makecode project](https://crowdin.com/editor/makecode/) weekly.
+
+If there are any strings that are not included in the Crowdin project, they can be manually added to json files in [pxt-ev3-translations](https://github.com/pxt-ev3-community/pxt-ev3-translations).
+
+### Forking
+
+You can [fork the repository on GitHub](https://github.com/pxt-ev3-community/pxt-ev3/fork).
+
+After forking, enable these settings to make the site build and host itself on GitHub Pages under your account:
+
+* **Settings -> Actions -> General**: Allow all actions
+* **Settings -> Pages**: Source = GitHub Actions
+
+### Self-hosting
+
+Easily self-hostable release .zips are available on the [releases page](https://github.com/pxt-ev3-community/pxt-ev3/releases).
+
+You can host it using e.g. Python:
+
+    cd self-hostable-pxt-ev3
+    python3 -m http.server
 
 ### Privacy
 
